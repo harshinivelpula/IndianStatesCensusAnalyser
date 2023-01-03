@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\net6.0\IndianStatesCensusAnalyser.exe
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\net6.0\IndianStatesCensusAnalyser.deps.json
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\net6.0\IndianStatesCensusAnalyser.runtimeconfig.json
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\net6.0\IndianStatesCensusAnalyser.dll
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\net6.0\IndianStatesCensusAnalyser.pdb
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\net6.0\IndianStatesCensusAnalyser.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\net6.0\IndianStatesCensusAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\net6.0\IndianStatesCensusAnalyser.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\net6.0\IndianStatesCensusAnalyser.AssemblyInfo.cs
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\net6.0\IndianStatesCensusAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\net6.0\IndianStatesCensusAnalyser.csproj.CopyComplete
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\net6.0\IndianStatesCensusAnalyser.dll
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\net6.0\refint\IndianStatesCensusAnalyser.dll
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\net6.0\IndianStatesCensusAnalyser.pdb
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\net6.0\IndianStatesCensusAnalyser.genruntimeconfig.cache
+C:\Users\DELL\source\repos\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\net6.0\ref\IndianStatesCensusAnalyser.dll
